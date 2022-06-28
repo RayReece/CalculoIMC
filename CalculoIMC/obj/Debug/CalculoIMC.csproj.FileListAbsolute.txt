@@ -1,0 +1,11 @@
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe.config
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.pdb
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.AssemblyReference.cache
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.Form1.resources
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.Properties.Resources.resources
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.GenerateResource.cache
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.exe
+C:\Users\raiany.iosilva\OneDrive - SENAC - SP\Documentos\c9\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.pdb
